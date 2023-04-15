@@ -8,7 +8,7 @@ public class AlphabeticCharacters {
 				character == 'u') {
 				System.out.println("Vowel");
 			} else {
-				System.out.println("Consant");
+				System.out.println("Consonant");
 			}
 		} else {
 			System.out.println("wrong alphabet!");
